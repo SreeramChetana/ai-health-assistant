@@ -1,3 +1,5 @@
 .env
 __pycache__/
-*.db
+*.dbgit add .
+git commit -m "Remove API key and secure environment variables"
+git push
